@@ -1,4 +1,4 @@
-# Data Scraper using BS4 and Mechanize
+# File Renamer using LookUp Table
 
 
 I wrote this script to automate renaming of files, using a lookup table.
